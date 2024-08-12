@@ -1,0 +1,17 @@
+$my-color: yellow;
+$my-background: black;
+
+
+
+h1 {
+    color: $my-color;
+}    
+
+#nested {
+    h1{color: black;}
+
+    & > p {
+        font-weight: bold;
+
+    }
+}

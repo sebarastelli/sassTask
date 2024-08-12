@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "fs": "^0.0.1-security",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-noop": "^1.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "http-server": "^14.1.1"
+  },
+  "name": "sasstask",
+  "description": "Tarea de sass para r/argentinaprograma",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-webserver": "^0.9.1",
+    "sass": "^1.77.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "cross-env NODE_ENV=development gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebarastelli/sassTask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebarastelli/sassTask/issues"
+  },
+  "homepage": "https://github.com/sebarastelli/sassTask#readme"
+}

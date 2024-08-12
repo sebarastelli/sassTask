@@ -1,0 +1,11 @@
+h1 {
+  color: yellow;
+}
+
+#nested h1 {
+  color: black;
+}
+#nested > p {
+  font-weight: bold;
+}
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBS0E7RUFDSSxPQU5POzs7QUFVUDtFQUFHOztBQUVIO0VBQ0kiLCJmaWxlIjoiaW5kZXguY3NzIiwic291cmNlc0NvbnRlbnQiOlsiJG15LWNvbG9yOiB5ZWxsb3c7XHJcbiRteS1iYWNrZ3JvdW5kOiBibGFjaztcclxuXHJcblxyXG5cclxuaDEge1xyXG4gICAgY29sb3I6ICRteS1jb2xvcjtcclxufSAgICBcclxuXHJcbiNuZXN0ZWQge1xyXG4gICAgaDF7Y29sb3I6IGJsYWNrO31cclxuXHJcbiAgICAmID4gcCB7XHJcbiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XHJcblxyXG4gICAgfVxyXG59Il19 */
